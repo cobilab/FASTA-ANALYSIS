@@ -1,0 +1,8 @@
+"gzip DATA",
+"PROGRAM","LEVEL","BYTES","C_BYTES","BPS_original","BPS_final","GAIN","C_TIME(s)","C_RAM(GB)","D_TIME(s)","D_MEM(GB)","DIFF","RUN"
+gzip_Helostoma_temminckii.genome_raw,1,634649507,202670535,2.554,2.554,0,17.23,2176,5.96,1792,0,0
+gzip_Helostoma_temminckii.genome_raw-fasta_analysis,1,634649507,202711184,2.554,2.555,0,15.70,2176,7.73,1792,0,0
+gzip_Helostoma_temminckii.genome_raw,4,634649507,186393817,2.349,2.349,0,25.43,2176,5.64,1792,0,0
+gzip_Helostoma_temminckii.genome_raw-fasta_analysis,4,634649507,186443624,2.349,2.350,0,25.73,2176,5.89,1792,0,0
+gzip_Helostoma_temminckii.genome_raw,7,634649507,175542500,2.212,2.212,0,326.50,2176,5.39,1792,0,0
+gzip_Helostoma_temminckii.genome_raw-fasta_analysis,7,634649507,175668106,2.212,2.214,0,315.27,2176,5.75,1792,0,0

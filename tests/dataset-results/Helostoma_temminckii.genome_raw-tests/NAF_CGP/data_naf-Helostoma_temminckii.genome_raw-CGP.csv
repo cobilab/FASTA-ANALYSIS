@@ -1,0 +1,10 @@
+"naf DATA",
+"PROGRAM","LEVEL","BYTES","C_BYTES","BPS_original","BPS_final","GAIN","C_TIME(s)","C_RAM(GB)","D_TIME(s)","D_MEM(GB)","DIFF","RUN"
+NAF_Helostoma_temminckii.genome_raw,1,634649507,152671612,1.924,1.924,0,2.00,7552,0.91,6400,0,0
+NAF_Helostoma_temminckii.genome_raw-fasta_analysis,1,634649507,152728425,1.924,1.925,0,2.82,7680,1.13,6400,0,0
+NAF_Helostoma_temminckii.genome_raw,8,634649507,161588390,2.036,2.036,0,10.52,25856,1.23,7936,0,0
+NAF_Helostoma_temminckii.genome_raw-fasta_analysis,8,634649507,161619571,2.036,2.037,0,20.38,25984,2.52,7936,0,0
+NAF_Helostoma_temminckii.genome_raw,15,634649507,161279022,2.032,2.032,0,118.08,340480,1.77,9984,0,0
+NAF_Helostoma_temminckii.genome_raw-fasta_analysis,15,634649507,161317336,2.032,2.033,0,143.24,340480,3.78,9984,0,0
+NAF_Helostoma_temminckii.genome_raw,22,634649507,147692088,1.861,1.861,0,591.41,3460736,1.09,136832,0,0
+NAF_Helostoma_temminckii.genome_raw-fasta_analysis,22,634649507,148037696,1.861,1.866,-.200,638.94,3460480,1.61,136704,0,0

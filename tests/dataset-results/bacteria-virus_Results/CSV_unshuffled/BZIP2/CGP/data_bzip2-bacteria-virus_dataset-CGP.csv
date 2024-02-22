@@ -1,0 +1,10 @@
+"bzip2 DATA",
+"PROGRAM","LEVEL","BYTES","C_BYTES","BPS_original","BPS_final","GAIN","C_TIME(s)","C_RAM(GB)","D_TIME(s)","D_MEM(GB)","DIFF","RUN"
+bzip2_bacteria-virus_dataset,1,9467739080,2641548154,2.232,2.232,0,1452.93,2432,6042.71,1920,0,0
+bzip2_bacteria-virus_dataset-fasta_analysis,1,9467739080,2643698098,2.232,2.233,0,4190.21,2432,1916.06,1920,0,0
+bzip2_bacteria-virus_dataset,4,9467739080,2524236671,2.132,2.132,0,2598.14,4736,2210.79,2944,0,0
+bzip2_bacteria-virus_dataset-fasta_analysis,4,9467739080,2533005929,2.132,2.140,-.300,4573.53,4864,1866.33,3072,0,0
+bzip2_bacteria-virus_dataset,7,9467739080,2435428098,2.057,2.057,0,1585.28,7168,2156.57,4224,0,0
+bzip2_bacteria-virus_dataset-fasta_analysis,7,9467739080,2446602246,2.057,2.067,-.400,3418.70,7168,3806.43,4224,0,0
+bzip2_bacteria-virus_dataset,9,9467739080,2395829235,2.024,2.024,0,5293.37,8704,3202.82,5120,0,0
+bzip2_bacteria-virus_dataset-fasta_analysis,9,9467739080,2408719872,2.024,2.035,-.500,5006.33,8576,1269.73,5120,0,0

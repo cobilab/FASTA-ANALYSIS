@@ -1,0 +1,10 @@
+"lzma DATA",
+"PROGRAM","LEVEL","BYTES","C_BYTES","BPS_original","BPS_final","GAIN","C_TIME(s)","C_RAM(GB)","D_TIME(s)","D_MEM(GB)","DIFF","RUN"
+lzma_bacteria-virus_dataset,1,9467739080,2781268605,2.350,2.350,0,4439.80,4736,3351.20,4096,1,0
+lzma_bacteria-virus_dataset-fasta_analysis,1,9467739080,2795696831,2.350,2.362,-.500,2555.18,4736,3503.33,4224,0,0
+lzma_bacteria-virus_dataset,4,9467739080,1884328732,1.592,1.592,0,19121.22,16000,663.31,5248,0,0
+lzma_bacteria-virus_dataset-fasta_analysis,4,9467739080,1929937218,1.592,1.630,-2.400,13514.57,16000,578.25,5248,0,0
+lzma_bacteria-virus_dataset,7,9467739080,1740848479,1.470,1.470,0,18627.25,98176,521.39,12288,0,0
+lzma_bacteria-virus_dataset-fasta_analysis,7,9467739080,1739248936,1.470,1.469,.100,18634.43,98304,787.19,12416,0,0
+lzma_bacteria-virus_dataset,9,9467739080,1647277407,1.391,1.391,0,27485.21,380800,573.70,36864,0,0
+lzma_bacteria-virus_dataset-fasta_analysis,9,9467739080,1615536087,1.391,1.365,2.000,25105.09,380800,451.92,36992,0,0

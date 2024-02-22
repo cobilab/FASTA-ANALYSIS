@@ -1,0 +1,8 @@
+"lzma DATA",
+"PROGRAM","LEVEL","BYTES","C_BYTES","BPS_original","BPS_final","GAIN","C_TIME(s)","C_RAM(GB)","D_TIME(s)","D_MEM(GB)","DIFF","RUN"
+lzma_Helostoma_temminckii.genome_raw,1,634649507,181811404,2.291,2.291,0,64.51,10112,18.87,3328,0,0
+lzma_Helostoma_temminckii.genome_raw-fasta_analysis,1,634649507,181848950,2.291,2.292,0,43.26,10368,12.56,3328,0,0
+lzma_Helostoma_temminckii.genome_raw,4,634649507,157325359,1.983,1.983,0,716.52,44800,7.71,6400,0,0
+lzma_Helostoma_temminckii.genome_raw-fasta_analysis,4,634649507,157358149,1.983,1.983,0,500.70,44800,8.71,6400,0,0
+lzma_Helostoma_temminckii.genome_raw,7,634649507,152588635,1.923,1.923,0,853.34,161408,8.54,18688,0,0
+lzma_Helostoma_temminckii.genome_raw-fasta_analysis,7,634649507,152798716,1.923,1.926,-.100,867.34,161664,7.73,18688,0,0

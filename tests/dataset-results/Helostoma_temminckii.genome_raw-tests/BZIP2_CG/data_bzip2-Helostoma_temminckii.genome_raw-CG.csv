@@ -1,0 +1,8 @@
+"bzip2 DATA",
+"PROGRAM","LEVEL","BYTES","C_BYTES","BPS_original","BPS_final","GAIN","C_TIME(s)","C_RAM(GB)","D_TIME(s)","D_MEM(GB)","DIFF","RUN"
+bzip2_Helostoma_temminckii.genome_raw,1,634649507,167550479,2.112,2.112,0,63.56,2304,26.83,1792,0,0
+bzip2_Helostoma_temminckii.genome_raw-fasta_analysis,1,634649507,167593802,2.112,2.112,0,48.33,2304,19.06,1792,0,0
+bzip2_Helostoma_temminckii.genome_raw,4,634649507,166721253,2.101,2.101,0,69.12,4352,28.25,2944,0,0
+bzip2_Helostoma_temminckii.genome_raw-fasta_analysis,4,634649507,166787663,2.101,2.102,0,49.76,4352,21.30,2944,0,0
+bzip2_Helostoma_temminckii.genome_raw,7,634649507,166400654,2.097,2.097,0,74.07,6400,36.49,4096,0,0
+bzip2_Helostoma_temminckii.genome_raw-fasta_analysis,7,634649507,166459292,2.097,2.098,0,51.15,6400,22.50,4096,0,0

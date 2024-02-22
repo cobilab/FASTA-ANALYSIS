@@ -1,0 +1,10 @@
+"lzma DATA",
+"PROGRAM","LEVEL","BYTES","C_BYTES","BPS_original","BPS_final","GAIN","C_TIME(s)","C_RAM(GB)","D_TIME(s)","D_MEM(GB)","DIFF","RUN"
+lzma_synthetic_shuffled,1,9718785000,3065238999,2.523,2.523,0,1114.98,10880,913.53,3200,0,0
+lzma_synthetic_shuffled-fasta_analysis,1,9718785000,92040330,2.523,.075,97.000,309.15,10880,54.78,3328,0,0
+lzma_synthetic_shuffled,4,9718785000,188617917,.155,.155,0,5298.99,50432,375.40,6272,0,0
+lzma_synthetic_shuffled-fasta_analysis,4,9718785000,82504170,.155,.067,56.300,3288.41,50432,1365.94,6400,0,0
+lzma_synthetic_shuffled,7,9718785000,50923310,.041,.041,0,7758.06,191744,77.19,18560,0,0
+lzma_synthetic_shuffled-fasta_analysis,7,9718785000,86530234,.041,.071,-69.900,3590.56,191488,129.95,18688,0,0
+lzma_synthetic_shuffled,9,9718785000,53584226,.044,.044,0,8701.81,691072,92.68,67712,0,0
+lzma_synthetic_shuffled-fasta_analysis,9,9718785000,94673276,.044,.077,-76.600,3501.70,691328,49.00,67840,0,0
